@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", //output directory
+    "module": "commonJS", //export JS to a commn version
+    "target": "es2019", //target JS's version on export
+    "esModuleInterop": true, //compatibility
+    "allowJs": true //allow js config files
+  }
+}
